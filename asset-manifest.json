@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/WhereEverydayIsYou/static/css/main.d175ce5f.css",
-    "main.js": "/WhereEverydayIsYou/static/js/main.c0d70617.js",
+    "main.css": "/WhereEverydayIsYou/static/css/main.7a7ccbca.css",
+    "main.js": "/WhereEverydayIsYou/static/js/main.93aef8d6.js",
     "index.html": "/WhereEverydayIsYou/index.html",
-    "main.d175ce5f.css.map": "/WhereEverydayIsYou/static/css/main.d175ce5f.css.map",
-    "main.c0d70617.js.map": "/WhereEverydayIsYou/static/js/main.c0d70617.js.map"
+    "main.7a7ccbca.css.map": "/WhereEverydayIsYou/static/css/main.7a7ccbca.css.map",
+    "main.93aef8d6.js.map": "/WhereEverydayIsYou/static/js/main.93aef8d6.js.map"
   },
   "entrypoints": [
-    "static/css/main.d175ce5f.css",
-    "static/js/main.c0d70617.js"
+    "static/css/main.7a7ccbca.css",
+    "static/js/main.93aef8d6.js"
   ]
 }
