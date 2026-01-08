@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WhereEverydayIsYou/static/css/main.7a7ccbca.css",
+    "main.js": "/WhereEverydayIsYou/static/js/main.01675714.js",
+    "index.html": "/WhereEverydayIsYou/index.html",
+    "main.7a7ccbca.css.map": "/WhereEverydayIsYou/static/css/main.7a7ccbca.css.map",
+    "main.01675714.js.map": "/WhereEverydayIsYou/static/js/main.01675714.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a7ccbca.css",
+    "static/js/main.01675714.js"
+  ]
+}
