@@ -375,4 +375,4 @@ export const messages = [
   "Aku percaya padamu hari ini, besok, dan selamanya"
 ];
 
-export const ANNIVERSARY_START_DATE = '2026-04-16';
+export const ANNIVERSARY_START_DATE = '2026-01-16';
